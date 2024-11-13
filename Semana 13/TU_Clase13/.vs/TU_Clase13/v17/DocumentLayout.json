@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nacho\\Desktop\\Tutos\\Semana 13\\TU_Clase13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AB08C4-4296-4EE5-BA61-82DDDE1CE616}|TU_Clase13\\TU_Clase13.vcxproj|C:\\Users\\nacho\\Desktop\\Tutos\\Semana 13\\TU_Clase13\\TU_Clase13\\TU_Clase13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3AB08C4-4296-4EE5-BA61-82DDDE1CE616}|TU_Clase13\\TU_Clase13.vcxproj|solutionrelative:TU_Clase13\\TU_Clase13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 241,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TU_Clase13.cpp",
+              "DocumentMoniker": "C:\\Users\\nacho\\Desktop\\Tutos\\Semana 13\\TU_Clase13\\TU_Clase13\\TU_Clase13.cpp",
+              "RelativeDocumentMoniker": "TU_Clase13\\TU_Clase13.cpp",
+              "ToolTip": "C:\\Users\\nacho\\Desktop\\Tutos\\Semana 13\\TU_Clase13\\TU_Clase13\\TU_Clase13.cpp",
+              "RelativeToolTip": "TU_Clase13\\TU_Clase13.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T17:22:12.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

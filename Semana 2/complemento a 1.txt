@@ -1,0 +1,11 @@
+ 0110
+-0011 --> complemento a 1 de (0011): 1100
+pasamos a esto
+
+ 0110
++1100
+=====
+ 10010 --> un bit de mas, entonces tomamos el mas significativo y lo removemos, luego lo pasamos a sumar el numero restante --> 0010
+		   +0001
+		   ======
+		    0011
